@@ -9,6 +9,24 @@ Hello, I'm Benjamin Zekavica, an enthusiastic software developer and technology 
 - 🎓 Education: Media Design (Print & Digital)
 - 📧 Contact: info@benjamin-zekavica
 
+
+**Facts**
+- Web Developer since 2008 | 16 years  
+- WordPress User since 2013 | 11 years  
+- WordPress Community Member since 2015 | 9 years
+
+**Core Developer**  
+- WordPress 6.5 (March 2024) | Release Team: Design Lead  
+- Gutenberg Core Developer since WP version 5.0
+
+**WordCamps/Meetups**  
+- WordCamp Attendee (Europe 2019, Europe 2023, Germany 2023)  
+- WordCamp Volunteer (Europe 2023, Europe 2024)  
+- WordCamp Organizer (Germany 2023)  
+- WordCamp Speaker (Germany 2023)  
+- WordPress Meetup Organizer/Speaker
+
+
 ## Tech Stack
 
 I love experimenting with various technologies and constantly learning new things. Here are some of the technologies I work with:
