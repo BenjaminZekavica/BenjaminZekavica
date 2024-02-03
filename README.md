@@ -1,16 +1,24 @@
-### Hi there 👋
+Welcome to the GitHub profile of Benjamin Zekavica! 👋
 
-<!--
-**BenjaminZekavica/BenjaminZekavica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hello, I'm Benjamin Zekavica, an enthusiastic software developer and technology aficionado. My passion lies in crafting innovative solutions that solve problems and contribute to making the world a better place.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Location: Aachen, Germany 🇩🇪
+- 💼 Currently working as: Professional Webdeveloper, onOffice GmbH
+- 🎓 Education: Media Design (Print & Digital)
+- 📧 Contact: info@benjamin-zekavica
+
+## Tech Stack
+
+I love experimenting with various technologies and constantly learning new things. Here are some of the technologies I work with:
+
+- 💻 Programming Languages: PHP, C++
+- 🌐 Web Development: HTML, CSS, JavaScript, Sass, Less, React.js
+- 🚀 Databases: SQL (MySQL)
+
+## Contact
+
+Feel free to reach out if you're interested in collaboration, have questions, or just want to say hello. I look forward to hearing from you!
+
+Thank you for visiting my GitHub profile! Happy coding! 🚀
