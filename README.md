@@ -34,7 +34,7 @@ Hello, I'm Benjamin Zekavica, an enthusiastic software developer and technology 
 
 I love experimenting with various technologies and constantly learning new things. Here are some of the technologies I work with:
 
-- 💻 Programming Languages: PHP, C++
+- 💻 Programming Languages: WordPress, PHP, C++
 - 🌐 Web Development: HTML, CSS, JavaScript, Sass, Less, React.js
 - 🚀 Databases: SQL (MySQL)
 
