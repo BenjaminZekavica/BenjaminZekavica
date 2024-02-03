@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my++profile!;+I'm+Benjamin+Zekavica!+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my++profile!+%F0%9F%98%9C;+I'm+Benjamin+Zekavica!+%F0%9F%91%8B;Webdeveloper%2C+Media+Designer%2C+Trainer%2C+IHK-Examiner)](https://git.io/typing-svg)
 
 ## About Me
 
