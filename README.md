@@ -1,6 +1,3 @@
-<img src="https://cdn-bapmh.nitrocdn.com/OTCYJZpVUKPoFgLvbursqCGMsVzQRDMy/assets/images/optimized/rev-34097e0/www.benjamin-zekavica.de/wp-content/themes/benjamin-zekavica/image/skills.png" align="left" height="300" width="300">
-
-
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&random=false&width=435&lines=Hallo+I'm+Benjamin+Zekavica+%F0%9F%91%8B;Webdeveloper%2C+Trainer;Media+Designer%2C+IHK+Examiner;I'm+from+Aachen%2C+Germany+%F0%9F%87%A9%F0%9F%87%AA)]()
 
 ![enter image description here](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
