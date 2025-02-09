@@ -5,7 +5,7 @@
 
 ## About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" />
 
-Hello, I'm Benjamin Zekavica, an enthusiastic software developer and technology aficionado. My passion lies in crafting innovative solutions that solve problems and contribute to making the world a better place.
+Hello, I'm Benjamin Zekavica, an enthusiastic software developer and technology aficionado. My passion lies in crafting innovative solutions that solve problems and contribute to making the world a better place. I am WordPress Core Developer & WordPress Core Team Global Representative 2025
 
 - 🌐 Location: Aachen, Germany 🇩🇪
 - 💼 Currently working as: Professional Webdeveloper, onOffice GmbH
@@ -19,6 +19,7 @@ Hello, I'm Benjamin Zekavica, an enthusiastic software developer and technology 
 - WordPress Community Member since 2015 | 9 years
 
 **Core Developer**  
+- WordPress Core Team Global Representative 2025
 - WordPress 6.5 (March 2024) | Release Team: Design Lead  
 - Gutenberg Core Developer since WP version 5.0
 
