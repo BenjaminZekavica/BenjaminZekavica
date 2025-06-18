@@ -1,7 +1,5 @@
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&random=false&width=435&lines=Hallo+I'm+Benjamin+Zekavica+%F0%9F%91%8B;Webdeveloper%2C+Trainer;Media+Designer%2C+IHK+Examiner;I'm+from+Aachen%2C+Germany+%F0%9F%87%A9%F0%9F%87%AA)]()
 
-[![Benjamin Zekavica](https://www.cardpress.us/card?username=benjamin_zekavica&badges=true)](https://www.benjamin-zekavica.de/)
-
 
 ## About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" />
 
