@@ -6,7 +6,7 @@
 Hello, I'm Benjamin Zekavica, an enthusiastic software developer and technology aficionado. My passion lies in crafting innovative solutions that solve problems and contribute to making the world a better place. I am WordPress Core Developer & WordPress Core Team Global Representative 2025
 
 - 🌐 Location: Aachen, Germany 🇩🇪
-- 💼 Currently working as: Professional Webdeveloper, onOffice GmbH
+- 💼 Currently working as: Open for new jobs
 - 🎓 Education: Media Design (Print & Digital)
 - 📧 Contact: info@benjamin-zekavica.de
 
